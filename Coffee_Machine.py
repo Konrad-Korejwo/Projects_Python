@@ -1,5 +1,5 @@
 #This code is a simulator of the coffee machine. It is a base of the back-end. The project does not contain calculating the coins
-#used to give the change and machine technology like pouring the coffee.
+#used to give the change and machine technology like pouring the coffee
 
 coffee ={
   "espresso": {
